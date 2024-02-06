@@ -19,7 +19,7 @@ This simple JavaScript project allows you to detect and display information abou
 
 ## Screenshot
 
-![App Screenshot](https://raw.githubusercontent.com/BCAPATHSHALA/Random-Color-Generator-JavaScript-Project/master/RANDOM%20COLOR%20GENERATOR%20JAVASCRIPT%20PROJECT.png)
+![App Screenshot](https://raw.githubusercontent.com/BCAPATHSHALA/Detect-Keypress-JavaScript-Project/master/DETECT%20PRESSED%20KEY%20JAVASCRIPT%20PROJECT.png)
 
 ## Features
 
