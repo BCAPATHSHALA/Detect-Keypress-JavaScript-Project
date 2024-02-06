@@ -31,7 +31,7 @@ This simple JavaScript project allows you to detect and display information abou
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/detect-keypress-js-project.git
+   git clone https://github.com/your-username/Detect-Keypress-JavaScript-Project.git
 
    ```
 
